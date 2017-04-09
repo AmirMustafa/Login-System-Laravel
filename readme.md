@@ -30,31 +30,23 @@ DB_PASSWORD=123456
 ## Preview
 
 
-![Screenshot of LinkedIn Login API Page 1 ](https://cloud.githubusercontent.com/assets/15896579/24588640/a738540a-17e9-11e7-8598-c8584ebf0721.png?raw=true "Screenshot of LinkedIn Login API Page 1")
+![Screenshot of Laravel Login Page1 ](https://cloud.githubusercontent.com/assets/15896579/24839314/665da890-1d75-11e7-8ed6-f5183eb75545.png?raw=true "Screenshot of Laravel Login Page1")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 2](https://cloud.githubusercontent.com/assets/15896579/24588641/aa385376-17e9-11e7-9cf1-320aa39360f6.png?raw=true "Screenshot of LinkedIn Login API Page 2")
+![Screenshot of Laravel Login Page2 ](https://cloud.githubusercontent.com/assets/15896579/24839315/69744a48-1d75-11e7-8067-47d55b899179.png?raw=true "Screenshot of Laravel Login Page2")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 3](https://cloud.githubusercontent.com/assets/15896579/24588642/aea3e736-17e9-11e7-96fa-5c13f5e54358.png?raw=true "Screenshot of LinkedIn Login API Page 3")
+![Screenshot of Laravel Login Page3 ](https://cloud.githubusercontent.com/assets/15896579/24839316/6c165d4a-1d75-11e7-9679-6af56e028bc9.png?raw=true "Screenshot of Laravel Login Page3")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 4](https://cloud.githubusercontent.com/assets/15896579/24588643/b25e04b0-17e9-11e7-9c65-7d3749819624.png?raw=true "Screenshot of LinkedIn Login API Page 4")
+![Screenshot of Laravel Login Page4 ](https://cloud.githubusercontent.com/assets/15896579/24839317/6ecfe0d8-1d75-11e7-8dea-a403163a9112.png?raw=true "Screenshot of Laravel Login Page4")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588644/b7978ea6-17e9-11e7-80ef-595f25b69b0d.png?raw=true "Screenshot of LinkedIn APP Dashboard")
+![Screenshot of Laravel Login Page5 ](https://cloud.githubusercontent.com/assets/15896579/24839318/7258bc66-1d75-11e7-93e4-5d46b2507d77.png?raw=true "Screenshot of Laravel Login Page5")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588646/bca3ecfa-17e9-11e7-9489-c92a8a00ae1c.png?raw=true "Screenshot of LinkedIn APP Dashboard")
-
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588647/c0acdf00-17e9-11e7-98bf-7f4ee287a500.png?raw=true "Screenshot of LinkedIn APP Dashboard")
+![Screenshot of Laravel Login Page6 ](https://cloud.githubusercontent.com/assets/15896579/24839322/76d2e492-1d75-11e7-9d30-34038cf0dfc8.png?raw=true "Screenshot of Laravel Login Page6")
 <br/><br/><br/>
-
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588648/c44372fa-17e9-11e7-96c9-87a907f7139a.png?raw=true "Screenshot of LinkedIn APP Dashboard")
-
-
-<br/><br/><br/>
-
 
 
 
